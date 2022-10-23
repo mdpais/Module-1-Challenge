@@ -14,8 +14,8 @@ N.A.
 
 ##Screenshot
 
-https://inst-fs-pdx-prod.inscloudgate.net/files/df540c99-4f69-41ba-aeb8-49883e7d5bd0/01-html-css-git-homework-demo.png
-
+![Screenshot](https://inst-fs-pdx-prod.inscloudgate.net/files/df540c99-4f69-41ba-aeb8-49883e7d5bd0/01-html-css-git-homework-demo.png)
+ 
 ##Link to deployed application
 
 https://lernantino.github.io/prework-study-guide/
